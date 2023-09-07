@@ -13,7 +13,7 @@
 
 💻 FullStack Developer:
 - My development experience covers both the Front-End and the Back-End, so I have knowledge of the structure and creation of an application, guaranteeing its efficiency in both sectors.
-🛠️ Soft skills:
+- 🛠️ Soft skills:
 - I consider myself a person open to opinions and teachings, I like to be able to help from my knowledge and to be open to receive help when necessary and to work as a team.
 ⚙️ Technologies:
 - Regarding the technologies, I have knowledge with React, Vite, Redux, CSS from the Front-End side and Node, Express, PostgreSQL from the Back-End side. All of the above with JavaScript.
